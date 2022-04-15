@@ -1,0 +1,42 @@
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/anim.css">
+    <link rel="stylesheet" href="css/root.css">
+
+    <link rel="stylesheet" href="css/mediaqueries/style_media_web.css">
+    <link rel="stylesheet" href="css/mediaqueries/style_media_alt.css">
+    <link rel="stylesheet" href="css/mediaqueries/style_media_mob.css">
+
+    <script src="js/script.js" defer></script>
+
+    <title>created</title>
+</head>
+
+<body>
+    <header>
+        <div class="created-logo">
+            <img class="created-logo-img" src="" alt="created-logo-img">
+            <p class="created-title">created</p>
+        </div>
+    </header>
+    <div class="created-main-content">
+        <section class="created-section-main"></section>
+    </div>
+    <footer>
+        <div class="created-logo">
+            <img class="created-logo-img" src="" alt="created-logo-img">
+            <p class="created-copyright">Design by Nicolas V.</p>
+        </div>
+    </footer>
+</body>
+
+</html>
